@@ -47,12 +47,12 @@ h1{
 #input1 .fa-solid{
     position: absolute;
     left: 10px;
-    top: 8px;
+    top: 10px;
 }
 #input2 .fa-solid{
     position: absolute;
     left: 10px;
-    top: 8px;
+    top: 10px;
 
 }
 #cont{
@@ -65,11 +65,12 @@ h1{
     margin-top: 50px;
 }
 #Inputs input{
-    width: 100%;
+    width: 90%;
     height: 35px;
-    margin-top: 6px;
+    margin-top: 8px;
     margin-bottom: 20px;
     border-radius:10px ;
+    padding-left: 25px;
 }
 #extras{
     display: flex;
